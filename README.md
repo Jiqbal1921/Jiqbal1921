@@ -1,6 +1,5 @@
  Hi, I’m @Jiqbal1921.
- I am interested in discovering and characterizing exoplanets and brown dwarfs using the Transit Photometric method with ground-based and space-based telescopes data.  
- I am also interested in studying exoplanet atmospheres, demographics, and formation.
+ I am interested in the detection and characterization of exoplanets, particularly identifying Earth-like planets through transit photometry. I am also interested in studying exoplanetary atmospheres using emission and absorption spectroscopy to investigate planetary climates and their potential for habit- ability. Through this research, I aim to contribute to our understanding of planetary systems and the potential for life beyond our solar system.
  I’m looking to collaborate on projects related to exoplanet transit analysis, atmospheric charaterization, and astronomical data processing.  
  How to reach me: email - iqbaljaved1921@gmail.com  
  Pronouns: He/Him 
